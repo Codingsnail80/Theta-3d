@@ -27,10 +27,13 @@ pip insatll pygame
 Or in some cases: sudo apt install python3-pygame
 
 # Demo Instructions
-The demo allows for movment with WASD and camera movement with the arrow keys.
-
 IMPORTANT: Make sure the demo file is in the same directory (folder) as the theta3d file.
 
+## main.py
+This demo allows for movment with WASD and camera movement with the arrow keys.
+
+## mouseTest.py
+This demo doesn'nt properly handle rendering oreder, but it does showcase how to use a mouse for camera movement.
 
 # Future Improvements
 
