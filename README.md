@@ -16,7 +16,7 @@ pip insatll pygame
 ## MacOS:
 pip3 install pygame
 
-You may need to use "sudo" at the begining of your command if you are having trouble.
+You may need to use "sudo" at the begining of your command if you are having trouble with permissions.
 
 ## Linux:
 
